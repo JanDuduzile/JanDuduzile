@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Duduzile January
-- 👀 I’m interested in C# web development, mobile development and maybe some IoT... Some Python Too1
-- 🌱 I’m currently learning C# and Python
-- 💞️ I’m not looking to collaborate at the moment
+# Hi, I'm Duduzile 👋🏾 👩🏾‍💻
 
+<img src="[https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png](https://github.com/JanDuduzile/JanDuduzile/blob/main/downloadheader.png)" alt="banner that says Duduzile January - Software Developer">
+I am a software developer that is fascinated by the back-end implementation of C# in ASP.NET Core applications. I have university training in front-end technologies such as HTML, CSS, Bootstrap and JavaScript,  traing in back-end technologies namely, C#, .Net and beginner level Python, and I have knowledge of SQL utilizing Microsoft SQL database when implementing SQL queries using Entity Framework in .NET.
 
-<!---
-JanDuduzile/JanDuduzile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+- Sharing updates on <a href="https://www.linkedin.com/in/duduzile-january/">LinkedIn</a> 💼
